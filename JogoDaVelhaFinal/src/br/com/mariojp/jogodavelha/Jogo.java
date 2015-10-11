@@ -1,3 +1,5 @@
+package br.com.mariojp.jogodavelha;
+
 import javax.swing.JOptionPane;
 
 public class Jogo implements IJogo{

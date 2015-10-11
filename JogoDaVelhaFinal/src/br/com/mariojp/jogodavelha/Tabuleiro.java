@@ -1,3 +1,5 @@
+package br.com.mariojp.jogodavelha;
+
 import java.awt.Font;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;

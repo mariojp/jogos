@@ -1,4 +1,4 @@
-package br.com.mariojp;
+package br.com.mariojp.zeroacem;
 
 import java.util.Scanner;
 
@@ -36,6 +36,7 @@ public class ZeroACem {
 			System.out.println("BEBE O DONO DO NUMERO");
 		}
 
+		tc.close();
 	}
 
 }
