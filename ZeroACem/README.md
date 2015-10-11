@@ -1,7 +1,3 @@
-# Jogos
-
-Jogos classicos para ensinar programação:
-
 ## Zero a Cem:
 Classico jogo em que deve uma pessoa escolhe um numero e outros devem tentar acertar.
 

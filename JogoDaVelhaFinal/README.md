@@ -18,4 +18,4 @@ Quando um jogador conquista o objetivo, costuma-se riscar os três símbolos.
 
 Quando um dos jogadores vence, o mesmo começa a outra partida
 
-[1]:https://upload.wikimedia.org/wikipedia/commons/a/ae/Tic_Tac_Toe.gif
+[1]: https://upload.wikimedia.org/wikipedia/commons/a/ae/Tic_Tac_Toe.gif
